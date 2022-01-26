@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Henri"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-10-12 09:26:16 AM"/>
+        <attribute name="created" value="SGVucmk7REVTS1RPUC00QVZKUzNQOzIwMjEtMTAtMTI7MDg6NTk6MTEgQU07MjgzOA=="/>
+        <attribute name="edited" value="SGVucmk7REVTS1RPUC00QVZKUzNQOzIwMjEtMTAtMTI7MDk6MjY6MTYgQU07MjsyOTQ3"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="aasta" type="Integer" array="False" size=""/>
+            <assign variable="aasta" expression="2016"/>
+            <declare name="president" type="String" array="False" size=""/>
+            <assign variable="president" expression="&quot;Kersti Kaljulaid&quot;"/>
+            <declare name="lauseKeskosa" type="String" array="False" size=""/>
+            <assign variable="lauseKeskosa" expression="&quot;. aastal valiti Eesti presidendiks &quot;"/>
+            <declare name="lause" type="String" array="False" size=""/>
+            <assign variable="lause" expression="aasta &amp; lauseKeskosa &amp; president"/>
+            <output expression="lause" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
