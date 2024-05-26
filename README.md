@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HenriJarvoja
-- 👀 I’m interested in infotechnology.
-- 🌱 I’m currently learning in Tartu Vocational Education Center.
-- 💞️ I’m looking to collaborate on programming.
-- 📫 How to reach me: henri.jarvoja@khk.ee
+- 👀 I’m interested in cars.
+- 🌱 I’m currently learning in Tartu VOCO.
+- 💞️ I’m looking to collaborate on drift events.
+- 📫 How to reach me: henri.jarvoja@voco.ee
 
 <!---
 HenriJarvoja/HenriJarvoja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
